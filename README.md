@@ -24,43 +24,55 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> React(.js or React Native), a banking api, database(SQL, ETC.), Authentication, Server,
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes, SQL, Rust and Python (or Java, or R.. some other programming language )
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user I can see the how much was used to round up
+> As a user I can login
+> As a user I can transfer money
+> As a user I can see changes in the account
+
 
 - What are the app milestones
 
-> Your answer here...
+> 1. fetch to bank API
+> 2. Creation of authentication 
+> 3. Save data
+> 4. Transfer money
+> 5. Password encryption
+> 6. Able to check account checking and account routing numbers
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> App desgin
+> Devices that can run the app
+> Friendly UI/UX
+> 
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> If we have a bigger team, yes
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Push notifications
 
 - How could people misuse this application?
 
-> Your answer here...
+> Steal user info/personal data, 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Cybersecurity related issue
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +86,58 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> React(.js or React Native)
+> Database(SQL, ETC.)
+> Authentication
+> Server 
+> end-to-end encryption 
+> Socket Programming 
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Network Layout
+> SQL
+> Rust
+> Python (or Java, or R.. some other programming language )
+
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user I can to login or not 
+> As a user I can choose to give less personal info to the server as possible.
+> 
 
 - What are the app milestones
 
-> Your answer here...
+> CRUD forums
+> Socket programming 
+> End-to-end encyption 
+> Database
+> Servers
+> UI/UX design 
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Target audience 
+> Server population 
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Yes,
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Anonymous system 
 
 - How could people misuse this application?
 
-> Your answer here...
+> Various types of tools to destroy servers (DDOS, ETC..)
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Community Standards
+> Filtering IP
