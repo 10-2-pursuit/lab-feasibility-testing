@@ -24,43 +24,47 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> React/JavaScript, HTML, Basic Math, Local Storage or Server Side
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Either having the data Locally or setting up a Server
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user I want every purchase to be rounded up and moved to a savings account.
+> As a user I want to put my purchase information into a form.
+> As a user I want to choose whether to round up my currently entered purchase.
+> As a user I want to see a confirmation of how much was moved to my savings account.
 
 - What are the app milestones
 
-> Your answer here...
+> Able to calculate money saved per transation.
+> Working form to enter information with confirmation.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Presentation and Styling, Responsiveness, App Security, Authentication
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> The MVP seems feeasable for a hackathon.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> The idea is good enough to be done as is.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Appeal to their need for money, promotional material.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Attempt to put in false bank information, Using other peoples bank information to "steal" money
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> People can attempt to steal others bank information to try and funnel money into their account.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +78,45 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> P2P or Serverside Connection, End to End Encryption, HTML, CSS, JavaScript
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user I want to be able to select a topic I want to chat about.
+> As a user I want to be matched with people I have a topic in common with.
+> As a user I want to be able to send and receive a message from my chat partner.
+> As a user I want to be able to rate my discussion after it ends.
 
 - What are the app milestones
 
-> Your answer here...
+> Created Peer 2 Peer connection
+> Form for Chat and chat-log
+> Sucessful encryption of messages
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Lack of users.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> We currently dont have the skills/experience to make this app feasible for a hack-a-thon
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> No.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> App notifications, Encourage with a new prompt. Highlight person connection
 
 - How could people misuse this application?
 
-> Your answer here...
+> Chat Robots, Scam Artists,
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> User doxxing, Harassment
