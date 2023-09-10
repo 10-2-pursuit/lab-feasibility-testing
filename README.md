@@ -24,43 +24,47 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> Data Visualization: Excel, Graph Maker, Databox etc.
+Expense/Budgeting Calculation: Honeydue, Mint, Pocketguard etc.
+Mobile Banking Integration: i-Con, IVR, etc.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I should be able to track my expenses/receipts
+As a user, I should be able to reliably calculate the differences in my purchases
+As a user, I should be able to see a comprehensive list of transactions and savings
 
 - What are the app milestones
 
-> Your answer here...
+> Registration and login -> Credit Card Integration -> Bank Account Integration -> Offline Behavior
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Security, Privacy, Reliability, Ease of access
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes as long as it doesn't need to connect to banking apps immediately
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Make it a tracker of receipts and purchases so that you can "round up" later
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Gamification
 
 - How could people misuse this application?
 
-> Your answer here...
+> Accessing other people's data due to low security
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Potential risk of breaching private banking information
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +78,42 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> React, Javascript, Web hosting, Web servers, Live chat
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I should be able to register an account
+As a user, I should be able to highlight my interests
+As a user, I should be able to text or voice chat with others
 
 - What are the app milestones
 
-> Your answer here...
+> Registration/Profiles -> Chat integration -> Voice integration -> Ratings -> Tag refinement
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Safety, User verfication
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Not feasible
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Instead of talking to another human and needing the technologies to do so, you could talk to a bot
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Gamification (badges, coins, ratings etc)
 
 - How could people misuse this application?
 
-> Your answer here...
+> Could be used for malicious actions (bullying)
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Yes through inappropriate behavior
