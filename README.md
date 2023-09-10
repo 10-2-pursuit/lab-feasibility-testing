@@ -24,43 +24,55 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> react(.js or react native), a banking api, a database(like sql...), an authentification, a server(to run db and other processes)
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes, sql,rust and python (or java, r...some other programming languages)
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> as a user..., 
+> i can deposite, 
+> and transfer money, 
+> also login to draw, 
+> can see changes in their bank account
 
 - What are the app milestones
 
-> Your answer here...
+> 1. fetch to the bank api.
+> 2. create an authentification.
+> 3. password encryption.
+> 4. checking their account number & account routing number
+> 5. save a data to db.
+> 6. transfer money.
+
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> app design, 
+> a device to run the app,
+> a user friendness,
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> if we have a bigger team, yes.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> push notifications.
 
 - How could people misuse this application?
 
-> Your answer here...
+> stealing people' personal data.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> cyber security relate issues
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +86,53 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> a database (like sql).
+> an authentification.
+> react(.js or react native)
+> a server(to run db and other processes)
+> end-to-end encryption
+> if we want this app simultaneously, probably some socket programming.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes, sql,rust and python (or java...some other programming languages), network layout.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> who want to be annonemous.
+> can choose login or not.
+> giving less personal info to the server as possible.
 
 - What are the app milestones
 
-> Your answer here...
+> CRUD forums
+> socket programming
+> end to end encryption
+> db
+> ui/ux design for pages & app
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> target audience, server population, 
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> yes.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> yes.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> annonemous system to write/read stuffs(giving less info as possible). rating. 
 
 - How could people misuse this application?
 
-> Your answer here...
+> bunch of automatic tools to destroy servers.
+> 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> community standard.
+> filtering an ip (or mac address).
